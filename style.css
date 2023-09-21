@@ -1,0 +1,49 @@
+/* Global styles */ 
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,900;1,100&display=swap');
+
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.dark-bg {
+    background-color: #1F2937;
+}
+
+.hero-text {
+    font-size: 48px;
+    font-weight:900;
+    color: #F9FAF8;
+}
+
+.hero-secondary-text {
+    font-size: 18px;
+    color:#E5E7EB;
+}
+
+.header {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.cta {
+    background-color: #3882F6;
+}
+
+.info {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+}
+
+.quote-bg {
+    background-color: #E5E7EB;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+/* END OF GLOBAL STYLES */ 
