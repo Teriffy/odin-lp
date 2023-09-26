@@ -6,6 +6,9 @@
     font-family: 'Roboto', sans-serif;
 }
 
+.big-container {
+}
+
 .dark-bg {
     background-color: #1F2937;
 }
@@ -137,3 +140,17 @@ h2 {
     align-self: center;
 }
 
+.quote-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote-text {
+    padding: 100px 36px;
+    max-width: 900px;
+}
+
+.quote-section p {
+    justify-self: flex-end;
+}
