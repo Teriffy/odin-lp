@@ -80,12 +80,13 @@ h2 {
     padding: 0;
 }
 
-.cta {
+.cta-button {
     color: white;
-    padding: 8px 16px;
+    padding: 8px 32px;
     text-decoration: none;
     border-radius: 6px;
     font-weight: bold;
+    background-color: #3882F6;
 }
 
 .hero {
@@ -176,6 +177,7 @@ h2 {
 
 .cta-text {
 margin-right: 120px;
+color: white;
 }
 
 .cta-text h4{
@@ -197,4 +199,10 @@ margin-right: 120px;
     border-radius: 6px;
     padding: 6px 20px;
     text-decoration: none;
+}
+
+footer {
+    text-align: center;
+    padding: 30px;
+    color: white;
 }
